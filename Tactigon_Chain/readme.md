@@ -26,7 +26,7 @@ Please take note that super user rights are required in order to get access to b
 
 * Python 2.7
 * [BlueZ library](https://learn.adafruit.com/install-bluez-on-the-raspberry-pi/installation) - BlueZ library with support for BLE
-* [Bluepy library 1.2.0](https://github.com/IanHarvey/bluepy) - Use v1.2.0, newer versions causes troubles with internal functions... 
+* [Bluepy library 1.2.0](https://github.com/IanHarvey/bluepy) - Use v1.2.0, newer versions causes connection troubles... 
 
 ## Built with
 
